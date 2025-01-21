@@ -169,12 +169,6 @@
         <mxCell id="8TGFVGsVwTt1SEC6JmtR-55" value="CPU &amp;gt; 80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="633" y="323" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8TGFVGsVwTt1SEC6JmtR-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619.5" y="247" as="sourcePoint" />
-            <mxPoint x="729.5" y="247" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8TGFVGsVwTt1SEC6JmtR-57" value="Email&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="750" y="160" width="80" height="60" as="geometry" />
         </mxCell>
