@@ -70,6 +70,24 @@
         <mxCell id="-m4q2zFRH0n8Yx4xbc76-20" value="US east 1b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-21" value="Company&lt;div&gt;Stabilization System&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="433" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-22" value="Company Stabilization&lt;div&gt;Devices&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-23" value="computational&amp;nbsp;&lt;div&gt;Module A&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="319" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-24" value="computational&amp;nbsp;&lt;div&gt;Module B&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="516" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-25" value="Amazon&amp;nbsp;&lt;div&gt;EBS volume&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="316" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-m4q2zFRH0n8Yx4xbc76-26" value="Amazon&amp;nbsp;&lt;div&gt;EBS volume&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="621.25" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
